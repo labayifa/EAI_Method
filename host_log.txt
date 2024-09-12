@@ -1,0 +1,26 @@
+Tue Sep  3 10:56:58 EDT 2024
+Adding clouduser user to the instance
+Adding user `clouduser' ...
+Adding new group `clouduser' (1001) ...
+Adding new user `clouduser' (1001) with group `clouduser' ...
+Creating home directory `/home/clouduser' ...
+Copying files from `/etc/skel' ...
+Upgrading the system to match the project requirements
+Setting up maven
+Installing Terraform packages
+Setting the default Java to Java 8 OpenJDK
+Setting up /home/clouduser/VM_Scaling_Project/
+Installing Python libraries
+Installing AWS CLI
+Installing Node.js package loadtest dependencies
+Downloading nvm
+Finished installing Node.js package loadtest dependencies
+Authorizing SSH key: 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCJGmnUFn4bKkYIcIG+yT7DQp1v4IPVXhCRjAZSf6mFqn4s68V+p5R1ZUZVn+vKH97UK5jGf8CqbIB+0egjiA90t6HED/r6ryl2oT9L3xMqq7op1QdDrrcaESd9RouXo64TPHYima18cb+HDGkb9Wum0/i2x63OUqYTvZWNFz3hyVCd+QMC4B08OpEazKXOvyK9GEZ0jkeFeX8FuANMIqJav9CZ5odJ9Ii5Ba0tckuRsrUUAqvw1B6m6jHO0YT6GnkFlvaSv0oVqujHQc9KEYZGspqnVTLgyToMjA2OThVhD131NjjTiKtXiL7gKg27V9ikL37zcZKPdpx/JqZ8kOaf packer_66035894-dd4a-e312-bf94-0ad8a1db1abe
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8FmZdR2wMjVLdDJi6+4YKKUQymkqAPVa80fUUscnAJkWo/l25v7onISpS/ANVdwhIywlsVG6dD6MRpf9jP0EtIG93F7akgGRnqa4w1P3AT1Q+B0dIanfeeu6st0cs5Xd8vacpBlHGeT0AaLDZtoatqEeadD51wy348j/+sJU1UV4y7wQYii5+Ycj82l6yrqd3pXkmKU/ZKxZ7fWeMfXjF1hOqB30v1BE45jUnOaQWymTAw37HZ4lelNLMNK0Hp9ZcMBiTNb3Bgcb4AREXsDiQwePbvgYpst2c30iYYUUAAiRfR1PBvYvG5lFAp+9NURdCrvvZPpMe28w3zAHu/fAJ p0_aws_key_pair
+
+=================================================================================================
+  You may now SSH in as the clouduser user 
+=================================================================================================
+
+            
