@@ -1,3 +1,6 @@
+Here is a match of content from Fon Language with the sentences translates in French.
+It gives the matching between these two languages.
+
 Fon_Sentence,French_Translation
 é ɖò ayìjúnjɔ́n,elle est assis
 mí ɖò ayìjúnjɔ́n,nous sommes assis
