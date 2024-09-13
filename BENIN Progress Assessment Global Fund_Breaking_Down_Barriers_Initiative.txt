@@ -1,0 +1,1881 @@
+.
+BENIN
+Progress Assessment
+Global Fund Breaking
+Down Barriers Initiative
+December 2023
+Benin Progress Assessment
+Page 2 of 49
+Table of Contents
+1. Exective Summary 5
+2. Overview 7
+2.1 Breaking Down Barriers’ theory of change 7
+2.2 Methods 8
+2.3 Overview of scorecard results 9
+3. Background and Country Context 10
+3.1 HIV epidemiological context 10
+3.2 Legal and policy context 11
+3.3 Financial investment 12
+3.4 Funding landscape 13
+3.5 National ownership and the enabling environment 13
+4. Impact of Programs to Remove Rights-Related
+Barriers on Health Services and the Enabling Environment
+15
+4.1 Providing integrated, non-stigmatizing services to key and
+vulnerable populations 15
+4.2 “Looking in – Looking out” (LILO) anti-stigma training. 16
+5. Towards Comprehensiveness: Achievements and
+Gaps in Scope, Scale and Quality 18
+5.1 Implementation status of programs to reduce human rights-related
+barriers to services 19
+Benin Progress Assessment
+Page 3 of 49
+5.2 Implementation status of program essentials 36
+5.3 Cross-cutting observations 38
+Key Recommendations 40
+Annex 1: Scorecard Methodology 44
+Annex 2: Key Informants, Site Visits, Beneficiary
+Interviews and Validation Meeting Participants 46
+Annex 3: Documents reviewed 48
+Benin Progress Assessment
+Page 4 of 49
+DISCLAIMER
+Towards the operationalization of the Global Fund Strategy 2023-2028, this progress
+assessment was commissioned by the Global Fund to Fight AIDS, TB and Malaria
+and presents the findings of the independent research team that carried out the
+assessment. The views expressed do not necessarily reflect the views of the Global
+Fund.
+ACKNOWLEDGEMENTS
+The progress assessment of Breaking Down Barriers was led by a team of researchers
+assembled by the Drexel University Dornsife School of Public Health.
+The Benin Progress Assessment was conducted under a grant to Drexel University.
+The research team was comprised of Diederik Lohman, MA, MPH, independent health
+and human rights consultant, Joe Amon PhD, MSPH of Drexel University, and
+Médessè Bruno DOUSSOH, independent consultant.
+The authors would like to acknowledge the support of the Global Fund, as well as the
+many country stakeholders, technical partners and the many others who provided
+reports, insight and myriad contributions, and who demonstrated their dedication to
+their programs and beneficiaries. 
+Benin Progress Assessment
+Page 5 of 49
+1. Exective Summary
+Since 2018, Benin has received funding from the Global Fund to remove rights-related
+barriers to health services, participating as part of the Breaking Down Barriers cohort.
+Breaking Down Barriers provides funding for “comprehensive” programs to remove
+rights-related barriers, based upon scaling up a set of internationally recognized
+human rights programs. Countries are also supported to create enabling environments
+to advance comprehensive responses.
+This assessment examines progress on HIV-related barriers since the September
+2021 mid-term assessment (MTA). The assessment examined human rights programs
+within the country and was conducted between January 2022 and October 2023,
+approximately one year and a half since the start of the GC6 grant.1
+It finds that despite
+a slow start in implementation, Benin has made modest progress in scaling up
+programs to remove human rights-related barriers to HIV services. In particular, the
+assessment found several positive developments:
+• HIV treatment sites provide integrated, non-stigmatizing services to key and
+vulnerable populations. The integration of peer mediators, psychologists and
+legal service providers (‘Assistants Juristes’) into HIV services has been
+expanded and led to integrated, holistic and supportive HIV services for Key
+and Vulnerable populations.
+• Strengthened legal literacy, redress and assistance programs: The number of
+Assistants Juristes has increased from 6 to 17, covering a total of more than 50
+healthcare sites. The Assistants Juristes routinely sensitize patients at these
+sites on their human rights and redress options, and have started conducting
+some legal literacy sessions at community level.
+• “Looking in – Looking out” (LILO) anti-stigma trainings conducted to train
+trainers, including representatives from key and vulnerable groups, have
+demonstrated impact on civil society and government participants. Trainers are
+now training various target populations.
+• Plan International Benin has opened Benin’s first methadone clinic with
+integrated, holistic medical and psycho-social care combined with peer
+outreach. While not technically part of the Breaking Down Barriers initiative, the
+clinic, which is just starting operations, has strong potential for removing human
+rights-related barriers to HIV services for people who use drugs. The
+government supports provision of Opioid Substitution Therapy services for
+injecting drug users.
+Nevertheless, significant challenges remain as Benin continues building a
+comprehensive response to removing rights-related barriers. These include:
+1 The Benin GC6 grant began in the first quarter of 2021 for the HIV grant and on July 1st, 2022 for the RSSH
+grant.
+Benin Progress Assessment
+Page 6 of 49
+• Significant delays in implementation of many human rights activities.
+• Decreasing, but still significant, community stigma and discrimination against
+PLHV, KPs, and high rates of GBV as well as reported self-stigma.
+• Limited capacity for mediation of human rights violations and significant barriers
+to accessing the Benin justice system for survivors of GBV - including high cost
+for medical certificates and pressure from family for non-judicial resolution.
+• Police targeting and abuse of key populations including the criminalization of
+drug use/possession and slum clearance/raids targeting PWUD and high rates
+of abuses reported by sex workers.
+• Need to strengthen capacity of KP/VP CSOs to manage activities and funds
+directly, and more resources are needed for the engagement of peer educators
+in community activities and in training to be able to work as legal services
+providers and peer paralegals.
+• Monitoring and evaluation is uneven and KP/VP CSO need support in
+documenting cases which could serve as the basis for advocacy related to the
+impact of rights violations as a barrier to access to health care.
+The goal of the assessment is to help identify priorities for the next phase of
+programming where Benin in GC7 is receiving €603,900 in human rights matching
+funds. Benin’s funding request was prepared before this assessment could be
+conducted; some recommendations will therefore need to be implemented through
+reprogramming of funds during the grant implementation period. 
+Benin Progress Assessment
+Page 7 of 49
+2. Overview
+Since 2017, the Global Fund has provided more than US$85 million in Matching Funds
+to scale up evidence‐based programming to reduce human rights‐related barriers to
+HIV, TB and malaria services through Breaking Down Barriers, catalyzing countries to
+commit additional financial support from within their allocations. To track progress in
+each of the 20 countries, the Global Fund has commissioned baseline and mid-term
+assessments in 2017 and 2019, respectively. In 2022, it commissioned a second
+progress assessment to examine further progress and inform further investments in
+this area, a continuing objective of the Global Fund’s Strategy for 2023‐2028.
+Breaking Down Barriers aims to support countries to have “comprehensive” programs
+to remove rights-related barriers. “Comprehensive” programs are those that: (a)
+comprise a set of activities that are internationally recognized as effective in reducing
+human rights-related barriers to health (see Text Box 1); (b) are accessible or serve
+the majority of the estimated numbers of key and vulnerable populations affected by
+such barriers; and (c) are adequately resourced to move from non-existence or oneoff/small-scale activities to a level of implementation likely to significantly reduce
+human rights-related barriers to services (a sustained, mutually-reinforcing, broadly
+protective package at scale). In Benin, funding is provided to address only HIV-related
+barriers.
+Text Box 1: Programs to Remove Human Rights-related Barriers to HIV Services
+• Eliminating stigma and discrimination in all settings
+• Ensuring non-discriminatory provision of health care
+• Ensuring rights-based law enforcement practices
+• Legal literacy (“know your rights”)
+• Increasing access to justice
+• Improving laws, regulations and polices relating to HIV and HIV/TB
+• Reducing gender discrimination, harmful gender norms and violence against
+women and girls in all their diversity
+• Community mobilization and advocacy for human rights
+2.1 Breaking Down Barriers’ theory of change
+The theory of change for the Breaking Down Barriers initiative is based on evidence
+from the HIV and TB epidemics that human rights-related barriers to health services2
+increase vulnerability to infection and negatively affect access to, uptake of and
+retention in HIV and TB services, particularly for certain key and vulnerable
+populations. To effectively reduce these barriers, countries should implement – at
+appropriate scale and with high quality – a set of internationally-recognized, evidencebased, human rights and gender-related interventions (see Text Box 1). This will in
+2 The Benin Progress Assessment focuses only on HIV.
+Benin Progress Assessment
+Page 8 of 49
+turn accelerate country progress towards national, regional and global HIV and TB
+targets. Efforts to remove rights-related barriers will also protect and enhance Global
+Fund investments and will strengthen health and community systems.
+The purpose of the assessment is to assess the impact of the human rights
+interventions on uptake, access, and retention of HIV services, with attention to the
+quality, scale-up and sustainability of programmatic implementation. It also aims to
+capture lessons learned related to human rights program implementation.
+Specifically, the Benin Progress Assessment focused on the following three priority
+areas:
+• Assess programmatic progress and impact on services since January 2022;
+• Assess the current national HIV policy landscape and its impact on programs
+to reduce human rights-related barriers to access to health services; and
+• Inform the GC7 funding process.
+2.2 Methods
+This Benin Progress Assessment addresses HIV-related human rights programs and
+activities, supported by Global Fund and other donors during the period October 2021
+through October 2023.
+Benin is categorized as a “focused assessment” country in the overall 20 country
+Progress Assessment. While the methods used are the same between focused and
+in-depth assessments – i.e., they all included document review, key informant
+interviews and case study analysis, focused assessments include a smaller number
+of interviews with implementors, stakeholders and beneficiaries than in-depth
+evaluations.
+The assessment began with a desk review of relevant documents from the Global
+Fund and other key stakeholders, including government policies, strategic plans and
+guidelines (see Annex 3). Interviews were conducted in Cotonou, Bohicon, and PortoNovo in October 2023. Overall, the research team interviewed more than 65 key
+implementers, government agencies, technical partners and beneficiaries.
+Stakeholder validation of key findings and recommendations was conducted in
+October and November 2023 with the goal of helping stakeholders with measurement
+of Global Fund Key Performance Indicator E1 for GC7. Where the team found
+differences in views on the degree of progress, types of barriers, or other issues, we
+have tried to reflect that difference in the report. Pseudonyms are used for beneficiary
+interviewees to protect confidentiality and privacy.
+Table 1: Benin Progress Assessment Timeline
+Assessment Component Dates
+Benin Progress Assessment
+Page 9 of 49
+Desk review of available program reports, epidemiological
+information, and other background documents
+September 2023
+Key informant interviews October 2023
+Follow-up with relevant key informants October-November 2023
+Presentation of key report findings to Global Fund November 2023
+2.3 Overview of scorecard results
+As part of Breaking Down Barriers, progress in countries is assessed on a 0-5 scale,
+with 0 demonstrating no programs present and 5 indicating that programs are
+operating at scale (national level), covering over 90% of the target populations. Please
+see key below (and Annex 1) for full scale.
+Key
+0 – no programs present
+1 – one-off activities
+2 – small scale
+3 – operating at subnational level
+4 – operating at national level (>50% of geographic coverage)
+5 – at scale at national level (>90% geographic coverage + >90% population
+coverage)
+Since mid-term, scores for programs to remove human rights-related barriers to HIV
+have mostly been positive, with the greatest increase noted for ensuring nondiscriminatory provision of health care. Five other program areas (eliminate stigma
+and discrimination in all settings, ensure rights-based law enforcement practices, legal
+literacy, improve access to justice, and reduce HIV-related gender discrimination)
+increased slightly. One program area - monitoring and reforming laws and policies -
+saw no change. While there is still a significant way to go in achieving
+comprehensiveness in all program areas, with the support of Plan Benin as the lead
+implementer of human rights activities there is increased activity and momentum
+towards achieving greater scale-up of rights-based programs.
+Program Area Baseline
+(2018)
+MTA
+(2021)
+Progress
+(2023)
+Eliminate stigma and discrimination in all
+settings 0.8 1.5 2.0
+Ensure non‐discriminatory provision of health
+care
+0.5 2.0 3.5
+Ensure rights-based law enforcement practices 0.5 1.5 2.0
+Improve legal literacy ("know your rights") 0.5 3.0 3.5
+Improve access to justice (HIV-related legal
+services) 0.8 3.0 3.8
+Improve laws, regulations and policies related
+to HIV and HIV/TB 0 0.5 0.5
+Reducing HIV-related gender discrimination 1.5 1.5 2.0
+Benin Progress Assessment
+Page 10 of 49
+Community mobilization and advocacy for
+HIV/TB * * 2.0
+Average Score 0.7 1.9 2.5
+#
+#
+: Note that the average scores only consider the first seven indicators to ensure consistency with the baseline and MTA.
+3. Background and Country Context
+3.1 HIV epidemiological context
+Benin has a mixed HIV epidemic with prevalence among adults in the general
+population estimated at 0.8% in 20223 and considerably higher among key
+populations: 21.9% among transgender people; 7.2% among sex workers; 8.3%
+among men who have sex with men (MSM); and 2.1% among people who inject drugs.
+Among prisoners, HIV prevalence was estimated at 1.2%.4
+In 2022, an estimated
+1,500 adults and children (range from 1,000-2,300) in Benin were newly infected with
+HIV. Of new infections among adults and children >15 years, two-thirds were
+estimated to occur among women and girls.5 An estimated 1,900 people died of HIVrelated causes.6
+Progress towards the 95-95-95 target indicators in 2022 compared to 2020 found
+overall improvements: The percentage of those living with HIV who knew their status
+increased from 73% to 85%; the percentage of those who know their status and who
+were on ART increased from 92% to 96%; and the percentage of those on ART who
+were virally suppressed increased from 81% to 82%.
+7 Compared to the West and
+Central African region as a whole, Benin’s performance in 2022 on the first two of
+these 95-95-95 indicators is similar (85% vs 82% for the first and 96% vs 96% for the
+second). However, for the third, Benin reported a lower rate than the region (82% vs
+90%). As the range overlaps for all of these indicators, however it is possible that these
+differences are misleading, or that there are specific barriers to retention in HIV care
+and consistent ART that make viral suppression difficult (Table).
+Percent of People Living with HIV who Know their HIV Status
+2020 2021 2022
+Benin 73 [61 - 85] 78 [65 - 91] 85 [71 - 98]
+3 UNAIDS. (2022). Benin Country Factsheet. https://www.unaids.org/en/regionscountries/countries/benin
+4
+Ibid.
+5
+Ibid.
+6
+Ibid.
+7 UNAIDS (2024). AIDSinfo (website). Available at: https://aidsinfo.unaids.org/ . UNAIDS. (2020). UNAIDS DATA 2020,
+2nd edition. https://www.unaids.org/sites/default/files/media_asset/2020_aids-data-book_en.pdf
+Benin Progress Assessment
+Page 11 of 49
+West & Central Africa 68 [60 - 79] 75 [66 - 87] 82 [72 - 94]
+Percent of those who Know their HIV Status on ART
+2020 2021 2022
+Benin 92 [77 - 98] 96 [80 - 98] 96 [80 - 98]
+West & Central Africa 92 [81 - 98] 95 [83 - 98] 96 [84 - 98]
+Percent of those on ART who are Virally Suppressed
+2020 2021 2022
+Benin 81 [68 - 95] 79 [66 - 93] 82 [68 - 97]
+West & Central Africa 83 [73 - 96] 89 [78 - 98] 90 [79 - 98]
+3.2 Legal and policy context
+Benin’s constitution provides for a right to equal access to health services and nondiscrimination. The country’s 2005 HIV law, which was still in the process of being
+amended as of December 2023, likewise prohibits discrimination against people living
+with HIV or other sexually transmitted disease. The law, however, may allow for
+unauthorized disclosure of a person’s HIV status and criminalizes HIV transmission in
+certain cases. According to the baseline report, enforcement of the law’s protective
+provisions for people living with HIV is weak.8 Sexual relations between people of the
+same sex are not criminalized in Benin although the baseline report notes that
+homosexuality remains “incredibly stigmatized.”9 Possession and use of drugs
+remains a criminal offense criminalized, and sex workers face frequent police
+harassment, even though sex work is not.. The National Strategic Plan for HIV
+provides the framework for the country’s HIV response.
+Effects of the COVID-19 Pandemic on HIV Responses
+Unlike other countries in the region, Benin never imposed a national lockdown to prevent
+the spread of COVID-19. Instead, after the first cases were identified in the country, the
+government-imposed cordons sanitaires in twelve—and subsequently fifteen—towns
+affected by COVID, prohibiting travel between those towns and the rest of the country.10
+The cordon sanitaire was lifted on May 11, 2020. As of July 2023, Benin reported 28,014
+confirmed cases of COVID-19 and 163 deaths. As of December 2022, a total of 4,232,541
+vaccine doses have been administered. While the COVID-19 pandemic initially slowed the
+8 The Global Fund to Fight AIDS, Tuberculosis and Malaria (2018), Baseline Assessment: Benin
+9
+Ibid.
+10 Issideen Ayinla Osseni, Benin responds to covid-19: sanitary cordon without generalized containment or
+lockdown?, Trop Med Health 2020, available at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7293962/
+Benin Progress Assessment
+Page 12 of 49
+implementation of programs, the overall impact on BDB initiative-funded activities during
+the current review period was limited.
+3.3 Financial investment
+In 2018, Benin received EUR 1.2 million in catalytic funding from the Global Fund for
+programs to remove human rights-related barriers for the period 2018-2020. It
+received an exemption from the 1:1 matching requirement in order to allow sufficient
+funding for essential prevention and treatment services. Under GC6, Benin requested
+EUR 1,087 million in catalytic matching funds to remove human rights barriers related
+to HIV, and matched it with EUR 609,577.60 from its main allocation for the grant
+period 2021-2023. These funds were included in two grants: The RSSH grant, for
+which SPRS (the health system strengthening arm of the Ministry of Health) was the
+PR, contained the catalytic funds and the HIV grants, with Plan Benin as PR, contained
+the match from the general HIV allocation. These funds were distributed across the
+key program areas the Global Fund has identified as essential to removing human
+rights-related barriers to HIV services.
+Table 2 shows how the matching funds were distributed across these areas in GC6.
+Stigma and discrimination reduction interventions received the largest share of funds,
+followed by legal literacy programs and programs to sensitize lawmakers and lawenforcement agents. Smaller amounts went to training of health workers, legal
+services, and interventions to reduce gender discrimination. The program area for
+improving the legal and normative context did not receive any funding under this
+grant.11 The RSSH grant does not allow for a similar breakdown of the catalytic funds
+as it did not use the human rights module to categorize interventions. However, this
+grant included interventions in these same areas, with a significant focus on stigma
+and discrimination reduction and on legal literacy and access to legal services.
+Table 2: Catalytic matching funds for HIV human rights interventions in the
+Plan International Benin HIV grant, GC6 (2021-2023)
+Intervention Amount (Euro)
+Stigma and discrimination reduction (HIV/TB) 253,657.16
+Human rights and medical ethics related to HIV and HIV/TB for
+health care providers
+33,255.23
+Sensitization of lawmakers and law-enforcement agents 73,495.67
+Legal literacy 92,803.34
+HIV and HIV/TB related legal services 18,141.43
+Improving laws, regulations and policies related to HIV and HIV/TB 0
+Reducing HIV-related gender discrimination, harmful gender
+norms and violence against women
+25,843.16
+11 Note that these budget figures are from approved grants in 2020. Actual expenditures may look different than
+the initial budgets. The specifics of budget tracking and costing are beyond the scope of the progress
+assessment, but budgets are provided to demonstrate the areas of investment from the Global Fund in GC6.
+Benin Progress Assessment
+Page 13 of 49
+Community mobilization and advocacy (HIV/TB) 112,381.60
+Total 609,577.60
+The total amount represented approximately 2.2% of the total HIV and RSSH grant
+budget of EUR 78,732,541 and included two Principal Recipients: the Ministry of
+Health (through PSLS/SRPS) and Plan International Benin in GC6.12 In GC7, Benin is
+eligible for €603,900 in human rights matching funds for HIV.
+3.4 Funding landscape
+In Benin, the Global Fund is the primary funder for programs to remove rights-related
+to access HIV services. The US government, primarily through USAID, does support
+some related projects, through the Ending AIDS in West Africa (EAWA) program,
+managed by FHI360. The program primarily focuses on HIV testing, treatment and
+care services. While initially focusing on key populations, the success of the program,
+according to FHI360’s webpage, led it to expand its work to the general population.
+USAID funding through PEPFAR in Benin started in December 2021 with an annual
+investment of $6 million, and a focus on 18 “priority intervention sites” including clinics
+and laboratories in four high burden departments, Atlantique, Littoral, Couffo, and
+Mono, with the goal of ensuring continuity of treatment and viral load (VL) suppression
+and providing HIV prevention services and interventions against stigma and
+discrimination. In December 2022, the US Ambassador Brian Shukan acknowledged
+the importance of addressing human rights barriers, saying that: “Marginalization,
+human rights violations, and discrimination are some of the barriers to accessing HIV
+care services.” The Netherlands funded a multi-year program supporting LGBT
+organizations.
+3.5 National ownership and the enabling environment
+As part of the matching fund requirements for Breaking Down Barriers, all countries
+are required to develop national plans for removing rights-related barriers to HIV and
+TB services, as well as establish or designate a body to coordinate the plan.
+In 2020, Benin developed a five-year 63-page human rights plan aligned with Benin’s
+national HIV, TB, malaria and hepatitis strategy (PSNIE 2019-2023). The plan outlined
+broad interventions; specific activities; location and/or coverage; expected results;
+indicators; timeline; responsibility; cost; and potential sources of funding. The plan
+called for national coverage in all districts for the bulk of the interventions. The
+proposed activities were organized according to UNAIDS’ key program areas for
+removing human rights-related barriers to HIV, however interventions to influence
+laws, policies and practices were little emphasized. A significant number of activities
+from the plan were included in the RSSH and HIV grants under the GC6 funding cycle
+12 Where amounts were reported in US dollars in source materials, the average dollar-euro exchange rate for
+2023 (0.9241) was used to convert the amounts to euros.
+Benin Progress Assessment
+Page 14 of 49
+of the Global Fund; while some other donors support HIV-related human rights
+programs the plan was not specifically used for fund raising purposes. However
+implementation of human rights activities under the RSSH grant were stalled until
+responsibility for implementation of these activities was transferred to Plan Benin in
+early 2023.
+The five-year plan was developed by a human rights working group with
+representation from government, civil society and technical partners. This working
+group, however, has not met over the assessment period. There is thus no standing
+body that oversees the implementation of the five-year plan or the human rights
+programs funded through the GC6 grant. In November 2022, a consultation with a
+broad array of stakeholders was held to reprogram human rights activities under the
+RSSH grant but it has not met since.
+The government has been supportive of efforts to reduce human rights-related barriers
+to HIV services engagement but it has not been proactive in program implementation.
+Although the health systems strengthening department of the Ministry of Health is the
+principal recipient of the RSSH grant, implementation of the human rights programs in
+that grant faced long delays and was, ultimately, transferred to Plan Benin. Civil
+society, including community organizations, is well represented on the CCM, providing
+an opportunity for engagement and advocacy with government stakeholders.
+Key Recommendations for HIV Program Governance and Implementation
+• The human rights working group should be reactivated or reconstituted,
+perhaps as a sub-group of the HIV working group, and meet regularly to discuss
+and coordinate ongoing implementation of the five-year plan and of programs
+to remove human rights-related barriers to HIV services. Resources should be
+reprogrammed to support these meetings.
+• The human rights working group should be tasked with reviewing the five-year
+plan, which currently ends December 31, 2024, to decide whether to extend
+and/or update it, or develop a new plan.
+• Government agencies should closely engage with civil society organizations on
+the implementation of the five-year plan. Government agencies should, in
+particular, commit to advancing the institutionalization of training on stigma and
+discrimination into pre- and in-service curricula for health workers, police and
+justice officials.
+• Global Fund should provide technical support for implementation of human
+rights programs, including to support the PR and human rights SR, as
+necessary
+Benin Progress Assessment
+Page 15 of 49
+4. Impact of Programs to Remove Rights-Related
+Barriers on Health Services and the Enabling
+Environment
+The impact of the Breaking Down Barriers initiative in Benin was measured through
+an assessment of the scale-up of comprehensive human rights programs, through an
+evaluation of progress in establishing an enabling environment for rights-based HIV
+responses, and through in-depth case studies of the impact of specific interventions
+drawn from interviews with more than 65 key implementers, government agencies,
+technical partners and beneficiaries. More information on the specific progress in each
+area is in the section on scale up of programs (“Towards Comprehensiveness”) below.
+4.1 Providing integrated, non-stigmatizing services to key and
+vulnerable populations
+Plan Benin, the lead implementer for Global Fund human rights investments described
+the integration of legal service providers, peer mediators, psychologists, and clinical
+health care providers as critical to achieving impact with key and vulnerable
+populations. Plan’s staff said that with an integrated, holistic and supportive strategy
+for key and vulnerable populations, as well as survivors of sexual and gender-based
+violence, they were able to see increased access to HIV services and retention in care.
+In interviews in two cities in Benin, Bohicon and Porto Novo, hospital staff spoke about
+the importance of holistically addressing the needs of key and vulnerable populations
+using peer educators and mediators for pre- and post-test counseling and linkage to
+care. Hospital staff also spoke about the importance of these personnel in identifying
+individuals “lost to follow-up” and finding strategies to re-engage them in care.
+Assistants Juristes and psychologists were also incorporated into the program to
+address human rights-related barriers that they faced as well as barriers related to
+transportation, nutrition, and other health concerns, such as malaria.
+At the health clinic “Racines”, clinical staff said that the integration of attention to rights
+barriers made distinct progress in their clinical work and in their “visibility” in the
+community:
+“We used to do activities without talking about it. But now, we are much more
+open and we see that our work with patients makes them more open and
+more accepting of themselves. We have also found it much easier to work
+with Ministries. It’s a circle – we find ways to help people break down the
+stigma and discrimination they face and that in turn makes it easier for the
+next person to come get tested, get linked to care and stay in treatment.”
+With support from Plan Canada, Plan Benin also developed a guide and training for
+health workers and HIV test peer counselors on legal issues and stigma and 
+Benin Progress Assessment
+Page 16 of 49
+discrimination and conducted advocacy to address issues of stigma and discrimination
+with the police and judicial officials, journalists, health workers, religious leaders, and
+key population representatives (including LILO training as described below).
+Another example of integrated services for key populations is the development by the
+Ministry of Health of a medical clinic (CPIAC) for people who use drugs which provides
+HIV testing and treatment for drug dependency. The clinic, supported by the UN Office
+on Drugs and Crime and Plan Benin, includes peer educators (in partnership with the
+CSO Borne), psychologists, social workers, pharmacists, physicians, nurses, and
+addiction treatment specialists. The clinic plans to also provide women who use drugs
+with reproductive and sexual health care, and treatment for gender-based violence,
+although these services are not yet operational. At the time of the field visit, methadone
+was not yet available but enrollment in a pilot program was underway and negotiation
+with police was ongoing.
+4.2 “Looking in – Looking out” (LILO) anti-stigma training.
+The LILO (Look In, Look Out) program was initially developed by the International
+HIV/AIDS Alliance (now known as Frontline AIDS) as a tool to combat selfstigmatization among people living with HIV. Subsequently, the methodology was
+adapted to address stigma related to key population groups, including LGBT+ people,
+sex workers and drug users, and to focus on values, engaging other stakeholders,
+such as healthcare providers, police and religious leaders. The uniqueness of the
+"LILO" approach lies in the notion that personal and social transformation begins with
+the self. It's not about "training" or "awareness-raising" in the conventional sense.
+These workshops lead professionals from organizations and institutions - who need to
+engage effectively with key populations (KPs), but who have reservations about them,
+lack information or are reluctant to do this work (for cultural, religious or other reasons)
+- to confront and overcome their own prejudices and question their attitudes towards
+these populations.
+Starting in 2023, Benin has conducted around 30 trainings for various audiences:
+health professionals, law enforcement, social workers, key populations, NGOs,
+government representatives, and religious and community leaders. The LILO
+approach has been widely cited by stakeholders, including communities, as a gamechanging approach to the perception and attitudes of health providers and law
+enforcement agents taking the training, as well as an empowering experience for
+members of key populations participating, increasing their self-esteem and providing
+a network for key populations among legal service providers, police, religious leaders
+and others who are often inaccessible or who were previously unresponsive to key
+population communities and concerns. These connections help these populations to
+break out of their isolation and develops important allies in the defense of their rights.
+In our interviews, participants in the LILO training used glowing terms such as
+“transformative” to describe the changes they felt in terms of their self-perception and
+in terms of the relationships it built among participants. Participants universally 
+Benin Progress Assessment
+Page 17 of 49
+recommended that the program be expanded and that efforts be made to support
+follow-up to foster long-term ties between group participants.
+Benin Progress Assessment
+Page 18 of 49
+5. Towards Comprehensiveness: Achievements
+and Gaps in Scope, Scale and Quality
+This section examines progress towards a comprehensive response to programs to
+remove rights-related barriers for HIV in Benin. It provides an in-depth analysis of each
+HIV program area, then moves on to a discussion of Benin’s progress in achieving the
+human rights-related HIV program essentials.
+Benchmarks on assessing progress within program areas
+The program areas below compare the status of programming in Q4 2023 with the results
+of the Mid-term assessment. To assess progress, the following terms are used:
+• No progress: no activities identified for the program areas and no plans identified for
+future activities
+• Delayed progress: activities on-going, but mostly in planning stages
+• Some progress: small-scale or pilots of specific activities
+• Progress: activities in the process of being implemented beyond pilot or small-scale
+phases
+• Significant progress: activities systematically implemented; advancing towards scale
+up of geographic coverage
+Comparing the Mid-Term Assessment results to the 2018 baseline, researchers found
+that Benin had scaled-up activities in six of seven program areas, with activities in
+three areas evolving from one-off, time-limited programs to operating at subnational
+level in multiple regions. Efforts to train health workers and legal assistance programs
+were particularly well developed, while programs to reduce gender-based
+discrimination, which were the most developed at baseline, had stagnated. Human
+rights programs targeting transgender populations had improved significantly.
+Despite this progress, the Mid-Term Assessment noted that Benin had only made
+limited progress toward institutionalizing interventions to remove human rights-related
+barriers and their integration with service delivery programs, negatively affecting the
+quality, impact, reach and, especially, sustainability of programs. The report
+recommended greater efforts to ensure these activities become a standard component
+of the HIV response. In addition, the report noted an urgent need to strengthen
+monitoring and evaluation of all human rights programs.
+Overall, the current assessment found that since Mid-Term Assessment, scores for
+programs to remove human rights-related barriers to HIV have mostly increased, with
+the greatest increase noted for ensuring non-discriminatory provision of health care.
+Five other program areas (eliminate stigma and discrimination in all settings, ensure
+rights-based law enforcement practices, legal literacy, improve access to justice, and
+reduce HIV-related gender discrimination) increased slightly. One program area -
+monitoring and reforming laws and policies - saw no change. While there is still a
+significant way to go in achieving comprehensiveness in all program areas, with the 
+Benin Progress Assessment
+Page 19 of 49
+support of Plan Benin as the lead implementer of human rights activities there is
+increased activity and momentum towards achieving greater scale-up of human rights
+programs.
+5.1 Implementation status of programs to reduce human rightsrelated barriers to services
+(a) Eliminate stigma and discrimination in all settings
+HIV program area
+Score13
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress (2023)
+Eliminate stigma and
+discrimination in all settings 0.8 1.5 2.0
+In its assessment of stigma and discrimination interventions in the Mid-Term
+Assessment, researchers noted that Benin had, since the baseline assessment,
+strengthened its engagement of peer educators in activities to reduce self-stigma and
+improve legal literacy among key and vulnerable populations including its focus on
+transgender populations. At the same time the assessment noted that activities were
+still limited in scope: Community mobilization activities, public engagement with
+opinion leaders on HIV, and efforts to address stigma and discrimination in educational
+and employment settings were reported to be non-existent. The Mid-Term
+Assessment report also noted that Benin had not conducted a stigma index study
+since 2016.
+Recommendations in the mid-term for addressing stigma and discrimination included
+for implementors to take a more holistic approach to fighting stigma and discrimination
+that engages societal stigma in its different forms and settings, including communities,
+educational institutions, and the workplace. Additional recommendations included to
+carry out a stigma index survey, and to increase funding for stigma and discrimination
+interventions.
+Key informants told the Progress Assessment team that levels of stigma are
+decreasing, especially in health services, but that stigma and discrimination against
+PLHV and KPs in communities remains a significant challenge, as does self-stigma.
+The 2021 Stigma Index reported significant improvements in several key areas
+compared to the 2016 Stigma Index study. For example, experiences of stigma and
+discrimination within the family had dropped dramatically, from more than 50% of study
+participants reporting incidents of stigma in 2016 to fewer than 5% for most categories
+in 2021. The study also found significant, although less dramatic, reductions in
+behavior related self-stigma although, counterintuitively, self-stigmatizing views had
+increased. For example, where in 2016, 18.8% of participants said that they had not
+participated in social events in the previous twelve months because of their HIV status,
+13 See Annex 1 for the interpretation of the scores.
+Benin Progress Assessment
+Page 20 of 49
+in 2021 that was the case for 11.8% but many more participants felt “dirty” or guilty
+because of their HIV status.14 The study also found that fewer participants disclosed
+their HIV status to their partners, from 61.9% in 2016 to 36.5% in 2021.
+During the assessment period, Benin has implemented several key interventions to
+address societal bias and stigma. After initial delays, the implementation of LILO (see
+case study 2) started in 2023. By December 2023, 34 LILO trainings had taken place,
+including training of 24 trainers, among whom many of the stakeholders interviewed
+for this assessment had participated. Trainings for various populations, including
+police (around 90 officers), health care providers (around 90), and faith leaders
+(around 90), were carried out by the end of the year. LILO trainings were widely
+praised both for their impact on those individuals participating in the training and for
+transforming the discussion towards values and shared beliefs. Participants from key
+and vulnerable populations noted that the training had significantly shifted their
+perceptions of themselves and of other key vulnerable populations.
+Benin also expanded the integration of peer educators, mediators, psychologists and
+Assistants Juristes at HIV service sites, adding 11 new Assistants Juristes and
+expanding HIV service site coverage from 23 to 49. This holistic approach was praised
+as having helped reduce stigma and discrimination in health settings (see also next
+program area) but also providing a vehicle for addressing community stigma. For
+example, in several health settings visited by the Assessment team, Assistants
+Juristes spoke about their efforts to support disclosure of HIV status and to mediate
+within families when conflict erupted around a positive diagnosis. Similarly, peer
+educators provided support to individuals seeking HIV testing or experiencing
+challenges to getting access or staying on treatment, including referring individuals for
+legal support, psychosocial or pastoral counseling, as well as helping individuals with
+broader health and legal concerns, including child custody issues. In group interviews,
+key and vulnerable population members spoke about how this support led to greater
+acceptance in their family or community. Finally, some members of the LGBT
+community said that police trainings, organized by Plan Benin, had been helpful for
+reducing stigma towards LGBT populations, and that it had made it easier for them to
+report abuses.
+Despite this reported progress, ongoing harassment and abuse by police and stigma
+from community was reported by sex workers and PWUD. MSM and transgender
+individuals also reported experiencing severe community stigma. Compared to the
+resources provided to address stigma and discrimination in health care settings (see
+below), relatively few programs specifically focused on reducing HIV-related stigma in
+the community and self-stigma continued to be identified as a significant barrier to
+accessing HIV services. The issue of self-stigma is also being addressed in the
+PEPFAR-funded FHI/EAWA Project, but it was noted by some program staff that little
+coordination or sharing of lessons occurred between programs. Both PLWH and
+14 Rapport de L’Enquete Index de la Stigmatisation (INDEX STIGMA) 2.0 des Personnes Vivant avec le VIH au
+Benin (2021). https://www.stigmaindex.org/wp-content/uploads/2022/04/Benin-SI-2.0-Report-2021_French.pdf
+Benin Progress Assessment
+Page 21 of 49
+health workers interviewed mentioned the reluctance among many people living with
+HIV simply coming to the hospital for fear of being seen by neighbors or relatives and
+identified as seeking HIV services.
+BESYP, a network of LGBT organizations, also identified community and self-stigma
+and discrimination as an ongoing concern. To address it, BESYP emphasized the
+importance of both education – through peer educators, psychologists, Assistants
+Juristes – and through documentation of abuses in their Human Rights Observatory.
+BESYP described work with magistrates and conducting “know your rights” campaigns
+with community members, partly with Global Fund support and with support from the
+government of Ireland. BESYP also conducts “accompaniment” with LGBTI individuals
+testing positive for HIV to support their linkage to treatment.
+A peer educator from BESYP, reflecting on progress since the Mid-Term Assessment,
+said:
+“There’s been a real change in the last few years. But we’re not there yet.
+People feel more free to speak out about who they are. But not everywhere.”
+A woman working as a peer educator with REBAP+ (Benin Network of Associations
+of People Living with HIV (REBAP+)) echoed the sentiment that stigma had decreased
+but that there were still significant challenges.
+“When I tested positive I didn’t know what to do. REBAP+ gave me life and
+hope. There’s less stigma on the radio and TV, but in your family, it’s hard –
+there’s suspicion of prostitution, of sleeping around. With treatment, being
+healthy, that can help reduce stigma but being in a sero-discordant relationship
+brings suspicion, confusion, and fear.”
+Key informants also spoke of the need to engage religious leaders more – both to
+speak to their constituencies about accepting people living with HIV and because they
+are often turned to first by couples after one tests positive for HIV. At the same time,
+religious leaders were seen as perpetuating stigma at times. In one example provided
+to researchers, religious schools tested all staff for HIV without consent and in another
+case pastors divulged the HIV status of parishioners to family members.
+Although broad anti-stigma and discrimination legislation appears to be out of reach
+in Benin for now due to a lack of government support and lack of capacity among
+CSOs to develop and implement a strategy for legislative advocacy, expanding the
+number of key and vulnerable population peer educators and peer paralegals with a
+community (rather than health clinic) focus would support the broader goal of reducing
+and eliminating community stigma and discrimination. In addition, trained peer
+educators and peer paralegals could support broader documentation/CLM of rights
+abuses, which currently has little support.
+Recommendations
+Benin Progress Assessment
+Page 22 of 49
+• Expand LILO trainings, ensuring that members of key and vulnerable
+populations participate in all of them and develop relationships with other
+participants.
+• Expand number of Assistants Juristes working with health centers and with Key
+Population CSOs to allow for greater engagement in the community (as
+opposed to only at health centers)
+• Introduce peer paralegals among peer educators to work in communities with
+their peers to improve legal literacy, intervene in cases of stigma, discrimination
+and GBV at community level, link clients to legal services, and reduce selfstigma.
+• Support stronger CSO documentation of rights abuses in the populations they
+serve and build capacity to use documented findings to advocate for structural
+changes.
+(b) Ensuring non-discriminatory provision of health care
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Ensure non‐discriminatory provision of
+health care 0.5 2.0 3.5
+The Mid-Term Assessment noted some small-scale activities related to ensuring nondiscriminatory treatment in health care, which was an improvement over the baseline
+report. For example, Plan Benin and the Association Béninoise de droit du
+Développement/Benin Association for Law and Development (ABDD) had started
+conducting training sessions for healthcare providers, with Plan Benin training 200
+healthcare workers, social assistants, and treatment literacy workers at sites that
+frequently attend to key and vulnerable populations, and ABDD conducting five
+sensitization sessions per month through Assistants Juristes with healthcare workers
+and members of key and vulnerable populations.
+Recommendations in this area from the Mid-Term report focused upon expanding and
+continuing training and sensitization sessions, and integrating stigma, discrimination,
+human rights, gender-based violence and ethics modules into all in-service training for
+HIV services. Also recommended was the incorporation of training in pre-service
+curricula in nursing and medical schools.
+During the current assessment, the assessment team found that this program area
+had achieved the most significant increase in quality and scale up. In health centers
+visited in Cotonou, Bohicon and Porto-Novo, it found that the integration of Assistants
+Juristes, psychologists and mediators alongside clinical teams has helped to create a
+more welcoming environment, increasing access to testing and care for key and
+vulnerable populations. With the expansion of the Assistants Juristes program, this
+integrated model is now operational in all of Benin’s departments (provinces) and
+covers most major hospitals that provide HIV services. 
+Benin Progress Assessment
+Page 23 of 49
+The important role of Assistants Juristes, mediators and peer educators was
+highlighted by both clinical staff in terms of ensuring that patients were supported in
+accessing and staying on treatment following a positive HIV test and by individuals
+living with HIV who described the benefits of comprehensive care that addressed both
+immediate needs as well as psychosocial and family concerns. The Assistants Juristes
+also play an important role in raising awareness around stigma, discrimination and
+gender-based violence among service providers at the different hospitals and health
+centers where they operate.
+Reseau SIDA, a network of LGBTI civil society organizations, described community
+HIV testing events to complement clinic-based testing. These sessions, which
+included psychologists and Assistants Juristes, were also designed to address
+gender-based violence. Racines, an HIV organization which started working on HIV
+prevention in 2002 and clinical care in 2005, highlighted the needs of key population
+youth as a particular challenge for health centers, particularly when they are in conflict
+with their families, and the role of Assistants Juristes as critical to ensuring access to
+care.
+While not a human rights program per se, another notable advance was the
+development of a dedicated center for PWUDs to access methadone and broader
+health care (including, in the future, maternal health care for female PWUDs). The
+center was not yet operational during the field visit but was fully renovated and staffed
+with peer educators, social workers, psychologists and clinical staff and will
+significantly improve access to quality, non-discriminatory care for this population. This
+center is likely to become an important site for implementation of human rights
+interventions geared toward people who use drugs, a population that faces significant
+stigma, discrimination and abuse from both police and society more broadly.
+Several limitations were mentioned by key stakeholders and beneficiaries, including
+that there was limited training of health care workers who were not engaged in HIV
+care on non-discrimination. At the same time, some key informants said that the
+broader attention to stigma and discrimination and greater acceptance of PLWHIV
+within health centers was also experienced by MSM who felt that their treatment in
+health settings had improved over the last few years. Nonetheless, more training for
+health care workers, especially related to health services for transgender individuals
+and expanded access to affordable STI services was needed, and recruitment of key
+population representatives for roles as mediators and Assistants Juristes—at present
+none of the Assistants Juristes come from key or vulnerable populations—was
+identified as important to increase acceptance and impact.
+It was also clear that despite a new center for PWUDs, scaling up and integration of
+services for PWUD will continue to be needed. Stronger reporting mechanisms within
+health centers for incidents of discrimination are also needed and can be integrated
+into the responsibilities of Assistants Juristes. As mentioned above, both PLWH and
+health workers interviewed mentioned the difficulty people face simply coming to the 
+Benin Progress Assessment
+Page 24 of 49
+hospital for fear of being seen by neighbors or relatives and identified as seeking HIV
+services.
+The assessment did not identify any activities that sought to integrate training on
+human rights and medical ethics into standard pre-service or in-service training
+curricula for healthcare workers.
+Recommendations
+• Implement strategies to ensure privacy for patients seeking HIV testing and
+care in health centers.
+• Ensure that training on stigma and discrimination is integrated into health
+worker education programs, including pre- and in-service trainings to allow for
+KP friendly service provision. This should include material related to people who
+use drugs and transgender people.
+• Strengthen reporting mechanisms for incidents of discrimination in health
+settings.
+• Recruit Assistants Juristes among members of key populations whenever
+possible.
+(c) Ensuring rights-based law enforcement practices
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Ensuring rights-based law enforcement
+practices 0.5 1.5 2.0
+Few programs focused on the sensitization of law enforcement and law makers were
+found during the baseline and Mid-Term assessments. In 2019 and 2020, Plan Benin
+organized sensitization meetings with mayors’ offices, law enforcement agents, judges
+and prosecutors about key and vulnerable populations, stigma, discrimination and
+human rights. In addition, ABDD brought together police officials of different ranks with
+peer educators, members of key and vulnerable populations and health workers for
+sensitization sessions as well as “proximity” meetings in several regions. Moreover,
+police were engaged in the context of a pilot needle exchange program and a study
+on methadone maintenance treatment for injecting drug users. No activities focused
+on sensitizing law makers however were noted in the Mid-Term Assessment.
+Recommendations made in the Mid-Term assessment included scaling up
+sensitization activities, meetings between police and key and vulnerable population
+representatives, as well as the development of a strategy to engage lawmakers on the
+harmful impact of criminalization on public health goals. It was also recommended that
+modules on HIV, key populations and human rights should be developed and
+integrated into curricula of the police academy and other training institution for law
+enforcement officers, prosecutors and judges.
+Benin Progress Assessment
+Page 25 of 49
+In the current assessment, some progress was noted in this program area, including
+regular engagement with law enforcement related to key populations and LILO training
+which included police. The impact of LILO trainings on police interaction with key and
+vulnerable populations is not yet known, as these training had only just started at the
+time of this assessment but around 90 police officers had gone through LILO trainings
+by the end of 2023. Trainings for prosecutors and judges that were implemented under
+GC5 continued with 5 workshops held for legal professionals, with a total of around 40
+participants. The assessment did not identify any progress toward integrating modules
+on HIV, key and vulnerable populations and human rights into pre- and in-service
+training curricula for law enforcement officers.
+In discussions with various stakeholders, including the sex worker organization
+Solidarite, Trans Benin, the harm reduction group Bornes, and the interlocutors at the
+methadone clinic CPIAC, police were cited repeatedly as a barrier to ensuring access
+to HIV prevention and care. This was especially true for people who use drugs. A peer
+educator at the methadone clinic in Cotonou said: “The last 6 months there’s been a
+strong police presence, practically every day. There have been 20 “ghettos” cleared.
+These are people’s homes and they are just leveled. People who are suspected of
+using drugs are held for a couple of days and those who are believed to be selling
+drugs get 2-3 months. It’s difficult for peer educators because we can be suspected of
+being users or even dealers. Some police will listen to you, most will not. If you have
+educational materials with you, it’s easier to argue if you are stopped, but if you are in
+the middle of a ghetto you are just assumed to be a drug user. If you object, the police
+just say ‘I have to do my job. My job is repression’.”
+In an interview, the Police Commissioner of Bohicon, expressed a degree of frustration
+with trainings on stigma and discrimination which he did not feel were effective at
+changing attitudes or practices. By contrast, he said that what was needed was
+leadership by police officers in positions of authority to make it clear that discrimination
+was untenable. The Commissioner spoke about one instance where a sex worker was
+turned away by a desk officer from filing a complaint related to theft and sexual
+violence, saying:
+“The most important thing is the first interaction with police – the desk officer. If
+the desk officer is judging people and not listening to what the complaint is they
+shouldn’t be on the desk, and when I see that, or hear about that, I have no
+problem bumping them back down to patrol. Address the crime not the person.
+Everything begins with that first interaction.”
+A more positive, but fragile, view of progress on ensuring rights-based law
+enforcement that was identified by many different stakeholders was the development
+of personal relationships with individual officers, developed via LILO trainings or
+through engagement by Assistants Juristes. Stakeholders at Arc-en-Ciel, Reseau
+SIDA, and peer educators from Trans Benin and Bornes mentioned the positive
+potential from developing connections between members of key and vulnerable
+populations communities and law enforcement officers. A key informant from the sex 
+Benin Progress Assessment
+Page 26 of 49
+worker group Solidarite mentioned, for example, approaching the police on behalf of
+women who had been victimized, asking “is this a case you can take?” to assess and
+facilitate the filing of a formal legal complaint. At the same time, a key informant from
+Trans Benin said bluntly, “there’s still a lot of police that harass us, all the time. There
+are a lot of trans people who live in rural areas where police are not trained. There’s a
+lot more work that needs to be done.”
+Nonetheless, based upon interviews with key and vulnerable populations, police
+abuse, including physical violence and refusal to address KVP complaints, remains
+common, even as some improvement has been seen, especially around the ability of
+women and MSM to report gender-based violence. In addition to inviting police officers
+to trainings such as LILO, the testimony of the Police Commissioner above highlights
+the need also to engage police leadership and to have officers speak to each other,
+and challenge each other, on discriminatory acts and policies.
+Recommendations
+• Support improved governmental engagement and buy-in for human rightsrelated training for law enforcement, the judiciary and law and policymakers
+(including LILO).
+• Consider working with selected police precinct/site (for example, where there is
+a lot of drug use and/or sex work) to develop relationships and focal points for
+KP communities in each region.
+• Engage health care providers in advocacy with police to convey the negative
+public health impacts on the HIV epidemic of abusive policing (e.g., CEPIAC on
+how police actions can harm efforts to provide HIV and methadone treatment
+for PWUDs).
+• Build evidence base of impact of abusive police actions on access, uptake and
+adherence to HIV services by improving documentation of police activity on key
+and vulnerable populations.
+• Work with police training institutions towards institutionalization of
+standardized, human rights and HIV curricula in pre- and in-service training
+curricula for police.
+(d) Legal Literacy (“know your rights”)
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress (2023)
+Legal literacy (“know your
+rights”) 0.5 3.0 3.5
+Benin made notable progress in developing legal literacy programs between baseline
+and mid-term assessments, where it was reported that 162 sensitization sessions with
+key and vulnerable populations had taken place between 2018 and 2020, reaching
+3128 people with information on rights and obligations, and on legal assistance
+programs. A training module for transgender peer educators was also developed that 
+Benin Progress Assessment
+Page 27 of 49
+integrated basic information on HIV prevention and treatment with basic facts on
+human rights, stigma and discrimination and gender-based violence.
+In the current assessment, the assessment team found that legal literacy and “know
+your rights” programs are effectively integrated with the provision of HIV services via
+Assistants Juristes and mediators at health centers, linked to legal services when
+necessary. At a hospital in Porto Novo, for example, all new patients at the HIV clinic
+meet with the legal assistant to receive information on their rights and on remedies in
+case of violations. Linking legal literacy activities more directly to legal assistance was
+a key recommendation from the mid-term assessment, which has thus been
+implemented. Peer educators are also expected to discuss human rights, genderbased violence and legal assistance in all outreach activities that they conduct in their
+communities (one session per month for MSM and TG peer educators, two per month
+for peers working with people who use drugs); basic legal literacy information thus
+reaches significant numbers of community members.
+That Mid-Term Assessment also observed that no country-wide monitoring system
+existed to document cases of stigma, discrimination and other abuses. It
+recommended that such a system be created so that cases documented through legal
+literacy and legal services programs would be captured comprehensively. Progress
+on this recommendation has been less successful, with the exception of the human
+rights observatory. Arc-en-Ciel, a member of the LGBTI network Benin Synergy Plus
+(BESYP), reported that they conducted monthly “know your rights” sessions led by an
+Assistants Juristes in multiple sites in both groups and in 1 on 1 counseling sessions.
+However, several other Assistants Juristes told us that they are not conducting such
+legal literacy sessions in the communities. Several community organizations said that
+they were unaware of such sessions happening.
+As a result, Assistants Juristes tend to reach people who are living with HIV and
+already seeking care and support their retention in services. The Assistants Juristes
+at Arc-en-Ciel, for example, said that their work was mostly with female PLWHIV, often
+around issues of domestic issues including spousal abuse and abandonment and child
+custody disputes once HIV disclosure had been made. While these interventions are
+likely to support the second two 95s of the AIDS targets, Assistants Juristes are
+unlikely to reach people who are not testing and/or not reaching health facilities, for
+whom stigma and discrimination may be significant obstacles to seeking testing or
+treatment services. In particular, legal literacy interventions with PWUD is not
+commensurate to the need, especially given increasing raids by police on sites where
+drugs are used. Statistics provided by Plan Benin for the first half of 2023, for example,
+clearly show how the interventions of Assistants Juristes primarily reach people living
+with HIV. During that period, Assistants Juristes provided consultations to a total of
+1704 people, of whom 1591 (93%) were people living with HIV, 56 (3%) were identified
+as sex workers, 41 (2%) as MSM, and 7 (less than 0.5%) as transgender. None were
+identified as people who use drugs. The numbers for 2022 were very similar.
+Benin Progress Assessment
+Page 28 of 49
+Consultations by Assistants Juristes per Population in 2022 and the first half of
+2023
+Population 2022 % First half of 2023 %
+Overall 3847 100 1704 100
+People living with HIV 3598 93.5 1591 93.3
+MSM 99 2.6 41 2.4
+Transgender 6 <0.3 7 <0.5
+Sex workers 81 2.1 56 3.3
+People who use drugs 6 <0.1 0 0
+It is essential that Benin find ways to reach key populations in their communities with
+legal literacy and access to justice interventions. It is these populations who often face
+the greatest barriers to services due to stigma and discrimination. If programs to
+remove human rights-related barriers to HIV services do not address their plight, they
+will not contribute to the first pillar—the percentage who people who know their HIV
+status.
+The progress assessment team recommends that Benin introduce peer paralegals to
+address this capacity gap. In countries where this model has worked successfully,
+peer paralegals have generally been selected from peer educators and provided with
+basic paralegal training to develop skills to do legal literacy sensitization, identify and
+document human rights violations, support clients in pursuing remedies for abuses,
+and link clients to professional legal support where needed. These peer paralegals
+could operate in their communities and would complement the Assistants Juristes and
+create greater community-based capacity for legal literacy and access to justice
+programs.
+Recommendations
+• Assistants Juristes should increase their presence in communities of key and
+vulnerable populations by conducting regular legal literacy sessions for
+different population groups, including for people who use drugs. These
+sessions should be organized in collaboration with community-led
+organizations.
+• Introduce peer paralegals as an additional tool to reach hard-to-reach
+populations. These peer paralegals should work in communities to conduct
+legal literacy trainings and facilitate mediation and access to justice for peers
+whose rights have been violated.
+• Provide greater support to CSO peer educators to enable them to become
+skilled at doing basic legal literacy work, identifying cases of human rights
+violations, and referring cases to Assistants Juristes (e.g., trainings and
+collaborative work with AJ).
+• Increase funds for legal literacy activities with people who use drugs. This
+population faces widespread human rights violations, yet appeared to benefit
+the least from legal literacy and access to justice activities at the time of the
+assessment.
+Benin Progress Assessment
+Page 29 of 49
+(e) Increasing access to justice
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Increasing access to justice 0.8 3.0 3.8
+The Mid-Term assessment noted a significant expansion of access to justice programs
+compared to the baseline report when there were few legal services initiatives with
+limited reach in place. By contrast the mid-term assessment reported that six
+Assistants Juristes, each responsible for two regions, were working. Plan Benin
+estimated that Assistants Juristes had conducted more than 5,500 consultations with
+key and vulnerable populations and key informants described the Assistants Juristes’
+program as very successful, including cases where people who were at risk of
+dropping out of treatment were retained as a result of the intervention.
+During the assessment period, the number of Assistants Juristes went from 6 to 17,
+significantly improving coverage and accessibility, especially for people living with HIV.
+The new Assistants Juristes were trained in 2023 and mostly operational now. In the
+first half of 2023, Plan Benin reported that more than 1,700 people had received
+support from Assistants Juristes, a significant increase from the numbers reported in
+the previous funding cycle. As noted, with the expansion of the program, Assistants
+Juristes are now operational in all of Benin’s departments (provinces) and cover most
+major hospitals that provide HIV services although Assistants Juristes continue to be
+stretched across multiple health facilities. Plan Benin has engaged a law office to
+support Assistants Juristes and take cases that require formal legal representation
+through proceedings.
+Because Assistants Juristes are embedded in health centers and do not usually
+operate in communities, this program has significantly improved access to justice for
+key and vulnerable populations who engage with the healthcare system. However,
+many of the most marginalized members of these populations—especially key
+populations such as people who use drugs and transgender people—are less likely to
+seek health services, and therefore, at present, have little opportunity to benefit from
+these interventions. For the first half of 2023, for example, Plan Benin reported that it
+had registered 28 cases of human rights violations. 26 of them concerned people living
+with HIV, one was an MSM, and the final case was unspecified. For 2022, 18 total
+cases were registered, 15 of which concerned people living with HIV and 3 MSM.
+While providing legal support to people living with HIV is very important—and
+contributes to Benin’s achievement of objectives related to treatment and viral load
+suppression—it is essential that this program find ways to ensure these services are
+available also to key populations in their communities and support progress toward
+the first 95 target. As described above, we recommend that this be done through peer
+paralegals operating in their communities. 
+Benin Progress Assessment
+Page 30 of 49
+The cases registered in the first half of 2023 were reported by 19 women and 8 men
+(for one case gender was not included); in 2022, it was 12 and 6 respectively. Many
+of the cases reported by women were described to researchers as instances where
+women tested positive for HIV and faced rights abuses by their families – including,
+physical violence, being thrown out of their home, and/or having their children taken
+away from them. Among the 2023 cases, in 13 survivors of abuse opted for mediation;
+in another 13 formal judicial proceedings were started. In 2 cases, the survivors did
+not want to take further action. Outcomes for many of the judicial cases were pending
+although a few had advanced through the legal process with positive results for the
+plaintiffs.
+Various stakeholders noted in interviews that navigating the justice system remains
+difficult, with significant costs for individuals whose rights have been violated,
+especially those who have experienced gender-based violence, to access medical
+records and to issue orders to appear of perpetrators that are necessary to present
+their case formally. In addition to cost, fear of stigma, discrimination, loss of privacy
+and retaliation remain formidable barriers to seeking justice. Some Assistants Juristes
+also mentioned their workload (which can be more than 40 clients) as a challenge.
+Training workshops with judges and lawyers had been conducted during the review
+period by REBAP+, which emphasized that there was a need to expand the trainings
+and ensure that all judges were trained. Commenting on the challenges of the judicial
+system and the frequent use of mediation as an alternative, an individual with REBAP+
+highlighted the importance of privacy and encouraged closed hearings as a way to
+see the completion of more judicial cases. In one case he noted that the male partner
+of a woman living with HIV took a picture of her HIV test result and circulated it within
+her community. Having already lost her privacy, the woman agreed to seeking redress
+through the judiciary but the process took three months and more than 300,000 cfa
+(US$500).
+In contrast to their experience with female PLWHIV facing domestic issues, Arc-enCiel said key populations were more likely to seek redress via the judiciary, although
+cases were still relatively uncommon. An Assistants Juristes from the organization said
+that: “It can be difficult, and people are afraid to bring a case. There’s a lot of fear of
+the justice system”.
+As the case data for the first half of 2023 shows—and consistent with the situation in
+other BDB countries—many key and vulnerable populations prefer mediation to formal
+legal proceedings. Indeed, in some cases, mediation may also be a better option for
+ensuring continued access to HIV services than lengthy judicial proceedings (for
+example, a woman who has been evicted from her house due to a positive HIV test
+needs an urgent solution to ensure she has shelter and income, something that
+mediation is often more likely to provide than a formal legal complaint). Yet, Assistants
+Juristes told the assessment team that they are not specifically trained to provide
+mediation services. One said that he had been reading up on mediation in his spare
+time. It is essential that Assistants Juristes are able to offer the full spectrum of 
+Benin Progress Assessment
+Page 31 of 49
+services to remedy human rights violations so their clients can make an informed
+choice about the remedy they prefer.
+The assessment team concludes that documentation on cases and their outcomes
+needs to be strengthened so that access to justice efforts can be more fully evaluated
+and analysis of these cases can be used to engage government and other actors to
+address structural issues that emerge from them. Stronger evidence of outcomes in
+formal judicial cases favoring key and vulnerable populations could also in turn compel
+participation and compliance with mediation for those who choose that route. In
+addition, further training is needed with magistrates and judges on HIV and the rights
+of key populations.
+Recommendations
+• Expand support for access to justice through increasing the number of
+Assistants Juristes working with KP/VP CSOs and in communities.
+• Introduce peer paralegals to work in communities to increase legal literacy,
+provide paralegal consultations, conduct basic mediation, and link clients to
+Assistants Juristes where formal legal services and more advanced mediation
+may be needed.
+• Ensure that Assistants Juristes and peer paralegals receive training to develop
+knowledge on mediation and mediation skills.
+• Provide support for improved data collection on outcomes of access to justice
+initiatives (including mediation and litigation) and impact on health care
+outcomes
+• Increase training with support from Ministry of Justice of police and judicial
+officers, including participation in LILO and other trainings.
+(f) Improving laws, regulations and policies relating to HIV and HIV/TB
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Improving laws, regulations and policies
+relating to HIV and HIV/TB 0 0.5 0.5
+The baseline and mid-term assessments noted limited activities associated with
+monitoring and reforming laws, regulations and policies related to HIV and relatively
+little has changed in the current assessment. For example, both the baseline and MidTerm assessments noted problematic aspects of the country’s HIV law, including
+related to lack of confidentiality of HIV diagnosis and criminalization of HIV
+transmission. Amendments to the law are still pending.
+One clear positive outcome was the opening of a methadone maintenance treatment
+facility in November 2023. This effort can be traced back to steps taken in 2018 and
+2019 when the health ministry initiated bi-annual meetings with the country’s drug 
+Benin Progress Assessment
+Page 32 of 49
+authority to ensure HIV prevention programs for people who inject drugs, such as a
+needle exchange pilot and a planned substitution treatment pilot, could operate without
+police interference. With the opening of the facility should come opportunities for closer
+engagement and education of police and discussion of the need for further services,
+including facilities in other parts of the city and country, and of the possibility of takehome methadone supplies. Additional legal frameworks may be needed to support
+methadone distribution – including for take home doses. UNODC is currently working
+on a model law in Burkina Faso that may provide a model for Benin.
+Further development of this program area is limited by few specific resources in the
+Global Fund grant for policy advocacy despite clear legal and policy challenges
+affecting key populations, including the criminalization of drug use. Although there is
+no specific law that criminalize LGBTI populations, lack of gender identity recognition
+laws impedes access to services.
+Community-led organizations also lack capacity and training on monitoring rights
+abuses and conducting advocacy and should be supported with additional resources
+in future grants, with the goal of more clearly identifying structural barriers to access
+to HIV services (e.g., linking data on increase in police raids of communities of PWUD
+to advocacy).
+Recommendations
+• Consider focus on Cotonou, as part of UNAIDS’ “Fast Track” cities initiative
+to be a model for piloting new regulations and policies respecting rights of
+key and vulnerable populations
+• Use catalytic funds to support legal and policy advocacy initiatives by
+community-led organizations.
+• Support community-led organizations to develop and implement joint
+advocacy efforts and provide them with advocacy training.
+• Build on documentation efforts by BESYP and others to more systematically
+collection data on incidents of rights abuses, and use that data to inform
+policy advocacy. Collecting detailed documentation of police abuses against
+people who use drugs, in particular, should be a priority.
+(g) Reducing HIV-related gender discrimination, harmful gender
+norms and violence against women and girls in all their diversity
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Reducing HIV-related gender
+discrimination, harmful gender norms and
+violence against women and girls in all
+their diversity
+1.5 1.5 2.0
+Benin Progress Assessment
+Page 33 of 49
+Both baseline and Mid-Term assessments found limited efforts related to addressing
+gender-based discrimination, and no change between the two periods. The Mid-Term
+report highlighted that Plan Benin had sought to mainstream a gender component into
+its work, integrating gender-based violence into its regular bi-annual consultations with
+local stakeholders in all 12 regions and integrating gender-based violence into
+sensitization sessions with law enforcement and judicial officials. It also noted that
+Benin had made progress in addressing barriers to services for transgender
+populations. However, the Mid-Term assessment identified few activities specifically
+focused on removing gender discrimination as a barrier to HIV services.
+In the current assessment, it was clear that Assistants Juristes play a key role in
+supporting individuals experiencing GBV to navigate health and legal systems, and
+can mediate, when appropriate, with family members to ensure that the rights of
+survivors of GBV rights are respected. Other positive outcomes in relation to reduced
+HIV-related gender discrimination were seen in terms of increased acceptance of
+MSM in the healthcare system and some progress with police. Among women who
+inject drugs, the methadone clinic, CEPIAC recognizing the barriers women who use
+drugs face seeking reproductive health care at many health centers and plan to
+introduce maternity services for women who use drugs.
+In 2021, the ministry of social affairs and microfinancing and the CLNS-TP, with
+support from UNAIDS, conducted an HIV gender assessment, which concluded that
+“gender issues and challenges are not well reflected in the national response to HIV.”
+Among others, it noted that “the socio-cultural context is strongly marked by attitudes
+unfavorable to women, with low school enrolment rates for girls, lower incomes, a high
+incidence of physical and psychological violence, an inheritance and matrimonial
+system governed by customary law that puts women at a disadvantage, and lack of
+access to land. These factors keep women dependent on men, creating a breeding
+ground for the spread of HIV/AIDS.” It also concluded that “[h]omosexuality, sex work
+and injecting drug use are categories of practices that are not accepted by society and
+considered to be vectors of HIV, leading to stigmatization and discrimination against
+HIV carriers.” It recommended a series of steps to address these challenges, including
+revitalizing the educational context and the specific dimensions of gender
+mainstreaming. Plan Benin and the HIV program at the Ministry of Health are
+developing of a holistic national action plan for the prevention and management of
+gender-based violence and human rights violations. Plan Benin has conducted a
+systematic gender analysis across all of its programs in order to ensure that they are
+gender-transformative and that gender perspectives are fully mainstreamed.
+Several limitations were also seen in relation to addressing HIV-related gender
+discrimination, including the need for more community engagement and attention to
+needs of adolescent girls, including holistic sexual and reproductive health services,
+instead of addressing gender discrimination and gender-based violence after the fact. 
+Benin Progress Assessment
+Page 34 of 49
+Key populations, including MSM and transgender individuals, need greater support
+and inclusion in training including in health centers as mediators and Assistants
+Juristes. One animatrice from Trans Benin said “Trans organization are not as strong
+as they could be. There’s not enough opportunity for leadership.” The animatrice also
+highlighted the need for support for hormone therapy as a strategy to both increase
+self-esteem and to reduce self- and community stigma.
+Recommendations
+• Adopt and implement the national plan on the prevention of gender-based
+violence.
+• Take advantage of ongoing HIV community and media activities to reinforce
+and support anti-GBV messages
+• Expand holistic sexual and reproductive health services for adolescent girls
+• Expand inclusion of qualified MSM and Transgender individuals in health
+centers as mediators, Assistants Juristes, and peer paralegals
+• Establish one stop centers for the management of gender-based violence which
+includes legal services and the provision of HIV and sexual and reproductive health
+services
+(h) Community mobilization & human rights advocacy
+HIV program area
+Score
+Baseline
+(2018)
+Mid-Term
+(2021)
+Progress
+(2023)
+Community mobilization and human
+rights advocacy * * 2.0
+Support for community mobilization and human rights advocacy is a new program area
+for the Breaking Down Barriers assessments, hence there are no baseline or MidTerm scores to compare with the current Progress Assessment. In the current
+assessment, while a range of community mobilization and human rights advocacy
+activities were noted, considerably more attention could be focused on this program
+area.
+Identified as strengths in this area is the fact that each key and vulnerable population
+has one or more community-led organizations representing them, and that communityled organizations play important roles in the implementation of various key human
+rights activities, including training of police and magistrates and LILO. In addition,
+various community-led organizations work closely with health service providers
+through mediators, training activities, and referral services to reduce stigma and
+discrimination at testing and treatment sites.
+However, community-led organizations implement few, if any, programs supported
+through catalytic human rights funds. They generally play a supporting role to activities
+that are implemented by Plan Benin, which limits their ability to grow as leaders in the 
+Benin Progress Assessment
+Page 35 of 49
+HIV response. None of the Assistants Juristes participating in the program were from
+key and vulnerable populations, and inclusion of community-led organizations for
+PWUD and TG appears significantly weaker than that of MSM and SW organizations.
+Community-led organizations seemed insufficiently aware of, and unlikely to
+participate in, strategic decision-making by Plan Benin and the Benin CCM regarding
+activities to remove human rights-related barriers. As a result, the knowledge and
+insights of these organizations is not reflected in decisions around programming. The
+specific needs and perspectives of the transgender population are often not
+adequately represented in some activities or decision-making processes where other
+broader LGBT groups are present.
+Recommendations
+• Provide direct support to KP/VP CSOs to develop and implement their own
+activities and interventions.
+• Provide technical support to community-led organizations to ensure that
+develop their capacity to implement programs and develop further as leaders
+in the HIV response.
+• Ensure that, whenever possible, Assistants Juristes are representatives of
+key and vulnerable populations. In recruitment decisions, preference should
+be given to hiring people from key and vulnerable populations.
+• Recruit, train and implement a peer paralegal component, including
+representatives from each key and vulnerable population to work in
+communities to improve legal literacy, provide basic mediation services, and
+refer cases that require more complex interventions to Assistants Juristes.
+• Ensure that LILO trainings for police, health workers, religious leaders, etc.
+always include multiple representatives of key and vulnerable populations.
+LILO trainings are known to forge strong connections between participants.
+Diverse and consistent KVP participation will help build relationships that
+community-led organizations will be able to use for mediation, advocacy, and
+other key interventions.
+• Clearly differentiate between MSM and TG so that both populations are
+represented in interventions and in decision-making processes where
+appropriate. MSM and TG have different needs and interests so
+representation of TG by MSM is often not appropriate.
+• Continue support for CLM initiatives. The Human Rights Observatory should
+be managed, as much as possible, by community-led organizations and
+should be used to address human rights issues on a case-by-case basis but
+also to identify and address structural challenges that negatively impact on
+the treatment cascade.
+• Support improved communication of CLM findings to community members
+and ensure meaningful participation in development of response and
+recommendations.
+Benin Progress Assessment
+Page 36 of 49
+5.2 Implementation status of program essentials
+Starting with GC7, countries are required to report on the implementation status of
+program essentials for HIV, TB and malaria. Program essentials are a set of standards
+for the delivery of services by Global Fund-supported programs. All applicants are
+required, as they fill out the Essential Data Tables to support their funding requests,
+to provide an update on their country’s status towards achieving program essentials.
+HIV applicants from Core and High Impact countries are also asked to describe in their
+funding request narrative any plans to address program essentials that are not fulfilled.
+In addition, the conditions for countries qualifying for the human rights matching fund
+requires funding requests to not only consider the findings of the most recent
+assessment of progress made in scaling up programs to reduce human rights-related
+barriers, but also to ensure the full implementation of all human rights program
+essentials.
+HIV and human rights-related program essentials are:
+• Prevention and treatment programs for key and vulnerable populations
+integrate interventions to reduce human rights- and gender-related barriers to
+these programs.
+• Stigma and discrimination reduction activities for people living with HIV and key
+populations are undertaken in health care and other settings.
+• Legal literacy and access to justice activities are accessible to people living with
+HIV and key populations.
+• Support is provided to efforts, including community-led efforts, to analyze and
+reform criminal and other harmful laws, policies and practices that hinder
+effective HIV responses.15
+The tables below present the progress assessment team’s summary analyses of
+Benin’s progress on the program essentials for HIV.
+Human rights Are all elements
+of a supportive
+environment16 for
+effective
+operationalizatio
+n of the program
+essentials in
+place?
+Implementation
+Status
+15 “Technical Brief: Removing Human Rights-related Barriers to HIV Services,” The Global Fund, accessed 10 April 2023,
+https://www.theglobalfund.org/media/12445/core_removing-barriers-to-hiv-services_technicalbrief_en.pdf
+16 1. a recent assessment of human rights-related barriers; 2. a country-owned, costed plan/strategy to reduce
+barriers; 3. an oversight mechanism to oversee implementation
+Benin Progress Assessment
+Page 37 of 49
+19. HIV programs for key and vulnerable
+populations integrate interventions to reduce
+human rights- and gender-related barriers.
+Yes Some programs17
+20. Stigma and discrimination reduction
+activities for people living with HIV and key
+populations are undertaken in health care and
+other settings.
+Yes Some programs18
+21. Legal literacy and access to justice activities
+are accessible to people living with HIV and key
+populations.
+Yes Activities/program
+s at sub-national
+level19
+22. Support is provided to efforts, including
+community-led efforts, to analyze and reform
+criminal and other harmful laws, policies and
+practices that hinder effective HIV responses.
+Yes Some support20
+Benin has made some progress toward fully implementing the HIV program essentials,
+but many challenges remain. In terms of the integration of interventions to reduce
+human rights- and gender-related barriers for key and vulnerable populations (#19 and
+#20), Benin has targeted specific health facilities as regional leaders in the
+implementation of integrated and comprehensive support, using psychosocial, legal
+and peer educators working alongside clinical staff. This approach should be justly
+recognized as a significant advance in ensuring that KVPs can access care and stay
+in treatment without disruption from discrimination and stigma. Having been shown to
+be feasible and effective, it should be scaled up nationally.
+Legal literacy and access to justice activities (#21) similarly remain in need of further
+resources to ensure that all PLWH and key populations can benefit. Limitations in
+terms of community engagement hinder broader efforts to ensure that KPs are
+17 Response options include: No or few programs integrate such interventions; Some programs; Many or all
+programs
+18 Response options include: No or one-off activities/programs; Small-scale activities/programs in health care and
+at last one other setting; Activities/programs in health care and at least two other settings at sub-national level
+(less than 50% national coverage); Activities/programs in health care and three or more other settings at
+national level (more than 90% national coverage)
+19 Response options include: No or one-off legal literacy and access to justice activities/programs; Small-scale
+activities/programs; Activities/programs at sub-national level (less than 50% national coverage);
+Activities/programs at national level (more than 90% national coverage)
+20 Response options include: No support; Some support; Comprehensive support (including to community-led
+efforts)
+Benin Progress Assessment
+Page 38 of 49
+exposed to know your rights campaigns and will require training of more peer
+educators and resources for their mobilization and linkage to Assistants Juristes and
+other legal services providers. Barriers to access to justice, such as costs for medical
+records and orders to appear, as well as trainings of jurists and magistrates, need to
+be addressed and scaled-up nationally. Finally, support for community-led analysis
+and advocacy related to harmful laws, policies and practices requires significant new
+investment. All of these activities require continued support for community-led
+organizations to lead in these efforts.
+5.3 Cross-cutting observations
+Overall, though the programs to remove rights-related barriers to HIV services in Benin
+remain less than comprehensive in scale, the current assessment found robust civil
+society organizations capable of expanding their current efforts and keen to directly
+manage trainings, interventions and community-led monitoring activities, rather than
+serve as a resource for larger international organizations. Supporting these
+organizations is critical to their growth and professionalization and to the sustainability
+of Benin’s progress to date.
+Although CLM activities have been minimal, a key informant from UNAIDS cited their
+support for REBAP+ and ITPC to harmonize an overall CLM strategy and guide, and
+trainings in 19 sites.
+Community-led organizations however need particular support in terms of stronger
+monitoring and evaluation (M&E) and financial management skills. The assessment
+was made more difficult by a lack of documentation about program activities and
+outputs, outcomes and purported impact. Building this type of M&E system is essential
+to understand if the human rights activities are reducing barriers and influencing
+access to services. If needed, implementers should be encouraged to access technical
+assistance on M&E issues through the Global Fund’s Human Rights Strategic
+Initiative.
+Recommendations
+• The human rights working group should be reactivated or reconstituted and
+meet regularly to discuss and coordinate ongoing implementation of the fiveyear plan and of programs to remove human rights-related barriers to HIV
+services. Resources should be reprogrammed to support these meetings.
+• The human rights working group should be tasked with reviewing the fiveyear plan, which currently ends December 31, 2024, to decide whether to
+extend and/or update it, or develop a new plan.
+• Government agencies should closely engage with civil society organizations
+on the implementation of the five-year plan. Government agencies should, in
+particular, commit to advancing the institutionalization of training on stigma
+and discrimination into pre- and in-service curricula for health workers, police
+and justice officials. 
+Benin Progress Assessment
+Page 39 of 49
+• Global Fund should provide technical support for implementation of human
+rights programs, including to support the PR and human rights SR, as
+necessary.
+Benin Progress Assessment
+Page 40 of 49
+Key Recommendations
+Aligned with findings in this report, the following recommendations are prioritized for
+support from the program areas and cross-cutting themes described above:
+Program Area Recommendations
+Eliminate stigma
+and discrimination
+in all settings.
+• Expand LILO trainings, ensuring that members of key and
+vulnerable populations- networks participate in all of them
+and develop relationships with other participants.
+• Expand number of Assistants Juristes working with health
+centers and with Key Population CSOs to allow for greater
+engagement in the community (as opposed to at health
+centers)
+• Introduce peer paralegals among peer educators to work in
+communities with their peers to improve legal literacy,
+intervene in cases of stigma, discrimination and GBV at
+community level, and reduce self-stigma.
+• Support stronger CSO documentation of rights abuses in the
+populations they serve and build capacity to use
+documented finding to advocate for structural changes.
+Ensure non‐
+discriminatory
+provision of health
+care
+• Implement strategies to ensure privacy for patients seeking
+HIV testing and care in health centers.
+• Ensure that training on stigma and discrimination is
+integrated into health worker education programs, including
+pre- and in-service trainings to allow for KP friendly service
+provision. This should include material related to people who
+use drugs and transgender people.
+• Strengthen reporting mechanisms for incidents of
+discrimination in health settings.
+• Recruit Assistants Juristes among members of key
+populations whenever possible.
+Ensure rights‐
+based law
+enforcement
+practices
+• Support improved governmental engagement and buy-in for
+human rights-related training for law enforcement, the
+judiciary and law and policymakers (including LILO).
+• Consider working with selected police precinct/site (for
+example, where there is a lot of drug use and/or sex work)
+to develop relationships and focal points for KP communities
+in each region.
+• Engage health care providers in advocacy with police to
+convey the negative public health impacts on the HIV
+epidemic of abusive policing (e.g., CEPIAC on how police
+actions can harm efforts to provide HIV and methadone
+treatment for PWUDs).
+• Build evidence base of impact of abusive police actions on
+access, uptake and adherence to HIV services by improving
+documentation of police activity on key and vulnerable
+populations.
+Benin Progress Assessment
+Page 41 of 49
+• Work with police training institutions towards
+institutionalization of standardized, human rights and HIV
+curricula in pre- and in-service training curricula for police.
+Improve legal
+literacy
+• Assistants Juristes should increase their presence in
+communities of key and vulnerable populations by
+conducting regular legal literacy sessions for different
+population groups, including for people who use drugs.
+These sessions should be organized in collaboration with
+community-led organizations.
+• Introduce peer paralegals as an additional tool to reach
+hard-to-reach populations. These peer paralegals should
+work in communities to conduct legal literacy trainings and
+facilitate mediation and access to justice for peers whose
+rights have been violated.
+• Provide greater support to CSO peer educators to enable
+them to become skilled at doing basic legal literacy work,
+identifying cases of human rights violations, and referring
+cases to Assistants Juristes (e.g., trainings and collaborative
+work with AJ).
+• Increase funds for legal literacy activities with people who
+use drugs. This population faces widespread human rights
+violations, yet appeared to benefit the least from legal
+literacy and access to justice activities at the time of the
+assessment.
+Improve access to
+justice
+• Expand support for access to justice through increasing the
+number of Assistants Juriste working with KP/VP CSOs and
+in communities.
+• Introduce peer paralegals to work in communities to
+increase legal literacy, provide paralegal consultations,
+conduct basic mediation, and link clients to Assistants
+Juristes where formal legal services and more advanced
+mediation may be needed.
+• Ensure that Assistants Juristes and peer paralegals receive
+training to develop knowledge on mediation and mediation
+skills.
+• Provide support for improved data collection on outcomes of
+access to justice initiatives (including mediation and
+litigation) and impact on health care outcomes
+• Increase training with support from Ministry of Justice of
+police and judicial officers, including participation in LILO
+and other trainings.
+Improving laws
+and policies
+relating to HIV and
+HIV/TB
+• Consider focus on Cotonou, as part of UNAIDS’ “Fast Track”
+cities initiative to be a model for piloting new regulations and
+policies respecting rights of key and vulnerable populations
+• Use catalytic funds to support legal and policy advocacy
+initiatives by community-led organizations.
+• Support community-led organizations to develop and
+implement joint advocacy efforts and provide them with
+advocacy training.
+Benin Progress Assessment
+Page 42 of 49
+• Build on documentation efforts by BESYP and others to
+more systematically collection data on incidents of rights
+abuses, and use that data to inform policy advocacy.
+Collecting detailed documentation of police abuses against
+people who use drugs, in particular, should be a priority.
+Reduce HIVrelated gender
+discrimination
+• Adopt and implement the national plan on the prevention of
+gender-based violence.
+• Take advantage of ongoing HIV community and media
+activities to reinforce and support anti-GBV messages
+• Expand holistic sexual and reproductive health services for
+adolescent girls
+• Expand inclusion of qualified MSM and Transgender
+individuals in health centers as mediators, Assistants
+Juristes, and peer paralegals
+• Establish one stop centers for the management of genderbased violence which includes legal services and the
+provision of HIV and sexual and reproductive health services
+Community
+mobilization and
+advocacy for
+HIV/TB
+• Provide direct support to KP/VP CSOs to develop and
+implement their own activities and interventions.
+• Provide technical support to community-led organizations to
+ensure that develop their capacity to implement programs
+and develop further as leaders in the HIV response
+• Ensure that, whenever possible, Assistants Juristes are
+representatives of key and vulnerable populations. In
+recruitment decisions, preference should be given to hiring
+people from key and vulnerable populations.
+• Recruit, train and implement a peer paralegal component,
+including representatives from each key and vulnerable
+population to work in communities to improve legal literacy,
+provide basic mediation services, and refer cases that
+require more complex interventions to Assistants Juristes.
+• Ensure that LILO trainings for police, health workers,
+religious leaders, etc. always include multiple
+representatives of key and vulnerable populations. LILO
+trainings are known to forge strong connections between
+participants. Diverse and consistent KVP participation will
+help build relationships that community-led organizations
+will be able to use for mediation, advocacy, and other key
+interventions.
+• Clearly differentiate between MSM and TG so that both
+populations are represented in interventions and in decisionmaking processes where appropriate. MSM and TG have
+different needs and interests so representation of TG by
+MSM is often not appropriate.
+• Continue support for CLM initiatives. The Human Rights
+Observatory should be managed, as much as possible, by
+community-led organizations and should be used to address
+human rights issues on a case-by-case basis but also to 
+Benin Progress Assessment
+Page 43 of 49
+identify and address structural challenges that negatively
+impact on the treatment cascade.
+• Support improved communication of CLM findings to
+community members and ensure meaningful participation in
+development of response and recommendations.
+Cross-cutting
+Recommendations
+• The human rights working group should be reactivated or
+reconstituted and meet regularly to discuss and coordinate
+ongoing implementation of the five-year plan and of
+programs to remove human rights-related barriers to HIV
+services. Resources should be reprogrammed to support
+these meetings.
+• The human rights working group should be tasked with
+reviewing the five-year plan, which currently ends December
+31, 2024, to decide whether to extend and/or update it, or
+develop a new plan.
+• Government agencies should closely engage with civil
+society organizations on the implementation of the five-year
+plan. Government agencies should, in particular, commit to
+advancing the institutionalization of training on stigma and
+discrimination into pre- and in-service curricula for health
+workers, police and justice officials.
+• Global Fund should provide technical support for
+implementation of human rights programs, including to
+support the PR and human rights SR, as necessary.
+Benin Progress Assessment
+Page 44 of 49
+Annex 1: Scorecard Methodology
+A key component of the progress assessment is the review of specific programs and
+the preparation of key performance indicator scores for the Global Fund. Drawing upon
+the data collected from program reports and key informant interviews, in addition to
+the descriptive analysis of findings for each program area, the assessment team also
+developed a quantitative scorecard to assess scale up of HIV, TB and, where
+applicable, malaria programs engaged in removing human rights barriers.
+Criteria/Definitions
+Scoring is based on the following categories measuring achievement of
+comprehensive programs. First, researchers should determine the overall category
+with integers 0‐5 based upon geographic scale:
+Rating Value Definition21
+0
+No programs
+present No formal programs or activities identified.
+1 One‐off activities Time‐limited, pilot initiative.
+2 Small scale
+On‐going initiative with limited geographic scale (e.g., a single or
+small number of locations – less than 20% of national scale) and
+capacity for
+reaching the targeted population.
+3
+Operating at
+subnational
+level
+Operating at subnational level (btw 20% to 50% national scale)
+4
+Operating at
+national level Operating at national level (>50% of national scale)
+5
+At scale at national
+level (>90%)
+At scale is defined as more than 90% of national scale, where
+relevant, and more than 90% of the population
+Goal Impact on services
+continuum
+Impact on services continuum is defined as:
+a) Human rights programs at scale for all populations; and
+b) Plausible causal links between programs, reduced barriers
+to services and increased access to HIV/TB services.
+Next, researchers can adjust scores within the category based upon reach of relevant
+target populations:
+Additional points Criteria
++0 Limited scale for some target
+populations (reaching <35%)
++0.3 Achieved scale to approximately half of
+target populations (reaching between
+35 ‐ 65% of target populations)
+21 The definition of the term “comprehensive” has been developed through extensive consultation, internally within CRG and
+MECA as well as externally, with the research consortia carrying out the baseline assessments and the members of the
+Working Group on Monitoring and Evaluating Programmes to Remove Human Rights Barriers to HIV, TB and Malaria Services.
+UNAIDS and WHO have been consulted as a member of the Working Group.
+Benin Progress Assessment
+Page 45 of 49
++0.6 Achieved widespread scale for most
+target populations (reaching >65% of
+target populations)
+Additionally, where a score cannot be calculated the following can be noted:
+Notation Meaning Explanation
+N/A Not applicable Used when the indicator cannot be logically assessed
+* Unable to assess Used when researchers were unable to determine a score.
+** Not a program
+area at the time
+of scoring
+Program area did not exist at the time of the calculation of the
+scorecard at either baseline, mid-term or both
+Benin Progress Assessment
+Page 46 of 49
+Annex 2: Key Informants, Site Visits, Beneficiary
+Interviews and Validation Meeting Participants
+Key informants
+# Name Organization Type of meeting
+1. Plan International
+Benin
+SODOLOUFO Odile, Chef
+Projet UCFM
+Plan International
+Benin
+2. Dr AHOUDA Carin,
+Épidémiologiste
+interniste,
+Responsable
+Dr AHOUDA Carin,
+Épidémiologiste
+interniste,
+Responsable
+3. Partenariat et
+Spécialiste Santé
+Partenariat et
+Spécialiste Santé
+4. TESSY Lustre,
+Juriste
+TESSY Lustre,
+Juriste
+5. SRPS Dr AVIANSOU Annonciat,
+Coordonnatrice SRPSS
+SRPS
+6. IDRISSOU
+Mouniratou,
+Responsable santé
+communautaire et
+mobilisation sociale
+IDRISSOU
+Mouniratou,
+Responsable santé
+communautaire et
+mobilisation sociale
+7. Arc en Ciel ZOMASSI Larissa,
+Assistante Juriste
+Arc en Ciel
+8. PNT DEDEHOUANOU Sessi,
+Responsable Suivi
+évaluation PNT
+PNT
+9. ODOUNLAMI
+Evelyne, Assistante
+sociale/SCMS/PNT
+ODOUNLAMI
+Evelyne, Assistante
+sociale/SCMS/PNT
+10. GNONLOFOUN
+Clément, Spécialiste
+Promotion de la
+santé/SCMS/PNT
+GNONLOFOUN
+Clément, Spécialiste
+Promotion de la
+santé/SCMS/PNT
+11. FHI360/EAWA
+(PEPFAR)
+Dr TOHON Dorcas,
+Responsable technique
+offres de service
+FHI360/EAWA
+(PEPFAR)
+12. BESYP BANKOLE Kamal Deen,
+Directeur Exécutif
+BESYP
+13. HOUESSOU
+Jeannot, Chargé de
+Programmes
+HOUESSOU
+Jeannot, Chargé de
+Programmes
+14. KPAKPO Gaétan,
+Responsable Suivi
+Evaluation
+KPAKPO Gaétan,
+Responsable Suivi
+Evaluation
+Benin Progress Assessment
+Page 47 of 49
+15. Réseau Sida Bénin DOUKPO Maurès,
+Directeur Exécutif RSB
+Réseau Sida Bénin
+16. GANMOU Euphrem,
+Chargé de
+programmes
+GANMOU Euphrem,
+Chargé de
+programmes
+17. CHAGAS Elyoth,
+PCA/RSB
+CHAGAS Elyoth,
+PCA/RSB
+18. AKLOBO Salomon,
+Animateur RSB
+AKLOBO Salomon,
+Animateur RSB
+19. RéBAP+ HOUNGBO Rock, Directeur
+Exécutif
+RéBAP+
+20. NASSARA Valentin,
+PCA/RéBAP+
+NASSARA Valentin,
+PCA/RéBAP+
+Focus Group Discussions (FGD) (Organization facilitating the FGD and number
+of participants)
+Cibles
+Number of
+participants
+Focus group RéBAP
+# of participants PLHIV 7
+Focus group Solidarité
+# of participants Sex Workers 7
+Focus group RSB
+# of participants MSM 8
+Focus group Bornes
+# of participants PWUD 7
+Focus group Transgenres
+# of participants Transgender 7
+Total participants 36
+Benin Progress Assessment
+Page 48 of 49
+Annex 3: Documents reviewed
+ASSAP-TB/Benin, PNLT Benin, Plan d’Action TB CRG et cadre de responsabilite du
+Benin 2024-2026, 2022
+CNLS-TP et al, Rapport de l’enquete index de la stigmatisation (Index Stigma) 2.0
+des personnes vivant avec le VIH au Benin, 2021
+CNLS-TP, National Strategic Plan to Reduce Human Rights-related Barriers to HIV,
+TB and Malaria Services Benin 2020-2024
+CNLS-TP, PSLS, Plan International Benin, Manuel de formation integre sur le
+VIDH/Sida, les IST, les questions de Stigmatisation, Discrimination, Droits humains,
+Violence basees sur le Genre prenant en compte les specificites de chaque
+populations cle et vulnerale, November 2023
+CNLS-TP, Etude sur l’evaluation de la protection sociale sensible au VIH au Benin,
+2022
+CNLS-TP, Evaluation du genre liee au VIH au Benin, 2021
+Funding Request 2021-2023
+Global Fund detailed budget CNLS-TP grant GC6
+Global Fund detailed budget Plan International Benin grant GC6
+Global Fund detailed budget C19RM grant
+Global Fund, Benin allocation letter 2021-2023
+Plan International Benin, Data base legal cases 2022
+Plan International Benin, Data base legal cases, first half 2023
+Plan International Benin, Rapport monitoring, Annee 2022, February 2023
+Plan International Benin, Rapport semestrial 1, 2023
+Plan International Benin, Rapport Semestriel 1, 2022
+Plan International Benin, Role and qualities of the peer educator, no date
+Plan International Benin, Peer educator contract 2021-2023
+Plan International Benin, List of Assistants Juristes
+Benin Progress Assessment
+Page 49 of 49
+Plan International Benin, Document de Strategies d’Appui Juridique dans le Cadre
+de la Lutte contre le VIH/SIDA au Benin, 2021
+Plan International Benin, Rapport mensuel de gestion de cas VBG
+UNAIDS, Index de la stigmatization et de la discrimination des PVVIH au Benin,
+2016
